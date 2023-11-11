@@ -1,13 +1,12 @@
-.sideBar{
-    position: absolute;
-    width: 20%;
-    height: 100vh;
-    left: 0px;
-    top: 0px;
-    background-color: #8133D0;
-
+.sideBar {
+  position: absolute;
+  width: 20%;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+  background-color: #b1cbe6;
 }
 
-Link{
-    text-decoration: none;
+Link {
+  text-decoration: none;
 }
