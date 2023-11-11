@@ -27,7 +27,7 @@ const Immunify = () => {
         style={{
           color: "white",
           listStyleType: "none",
-          margin: "40px 0 0 50px",
+          margin: "40px 0 0 40px",
           fontFamily: "Droid Sans",
           fontWeight: "70",
         }}

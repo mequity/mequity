@@ -1,11 +1,11 @@
 .loginMainBody{
-    background-color: #EBEEF0;
+    background-color: #0782d3;
     width: 100%;
     height: 100vh;
     margin: 0;
   }
   .LoginInputSection{
-    background: linear-gradient(180deg, rgba(196, 196, 196, 0.7) 0%, rgba(196, 196, 196, 0.2) 100%);
+    
     border: 1px solid rgba(196, 196, 196, 0.4);
     backdrop-filter: blur(15px);
     border-radius: 10px;

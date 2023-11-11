@@ -22,7 +22,7 @@ const Dashboard = () => {
   return (
     <>
         <div className="sideBar">
-            <Link to="/"><img src={Logo} alt="logo" style={{margin:"20px 0 0 10px"}}/></Link>
+            <Link to="/"><img src={Logo} alt="logo" style={{margin:"20px 0 0 10px", width:"100px"}}/></Link>
             <div className="sideBarComponent" style={{backgroundColor:"white",color:"#8133D0", marginTop:"40px"}}><img src={DashIcon} alt="Icon" style={{marginRight:"20px"}}/>Dashboard</div>
             <Link to="/records" style={{textDecoration:"none"}}><div className="sideBarComponent"><img src={AppointmentIcon} alt="Icon" style={{marginRight:"20px"}}/>Records</div></Link>
             <Link to="/vaccineTypes" style={{textDecoration:"none"}}><div className="sideBarComponent"><img src={ChatIcon} alt="Icon" style={{marginRight:"20px"}}/>Vaccine Types</div></Link>
