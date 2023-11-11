@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1c84d23.css",
+    "main.js": "/static/js/main.85e65bdc.js",
+    "static/media/father.png": "/static/media/father.2755d83b6b9027069e71.png",
+    "static/media/doctorWithSyringe.png": "/static/media/doctorWithSyringe.f8923efabee872b17ddf.png",
+    "static/media/virusMolecule3.png": "/static/media/virusMolecule3.3383fc2dc0d36dfba1e5.png",
+    "static/media/signUp.png": "/static/media/signUp.20d8ce19e5403b2c2083.png",
+    "static/media/virusMolecule2.png": "/static/media/virusMolecule2.11944955b8165f9f3cb9.png",
+    "static/media/virusMolecule.png": "/static/media/virusMolecule.a331e8a10f4e9f1e69e8.png",
+    "static/media/LineChart.png": "/static/media/LineChart.889a3ffc9e42f39def29.png",
+    "static/media/virusMolecule6.png": "/static/media/virusMolecule6.79142b5075295f6dcc94.png",
+    "index.html": "/index.html",
+    "main.b1c84d23.css.map": "/static/css/main.b1c84d23.css.map",
+    "main.85e65bdc.js.map": "/static/js/main.85e65bdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c84d23.css",
+    "static/js/main.85e65bdc.js"
+  ]
+}
