@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8dcd880.css",
-    "main.js": "/static/js/main.fde91894.js",
+    "main.css": "/static/css/main.a785c872.css",
+    "main.js": "/static/js/main.d7c459a9.js",
     "static/media/father.png": "/static/media/father.2755d83b6b9027069e71.png",
     "static/media/logo.png": "/static/media/logo.0366e126531f7ec4ea58.png",
     "static/media/signUp.png": "/static/media/signUp.20d8ce19e5403b2c2083.png",
@@ -9,11 +9,11 @@
     "static/media/virusMolecule.png": "/static/media/virusMolecule.a331e8a10f4e9f1e69e8.png",
     "static/media/LineChart.png": "/static/media/LineChart.889a3ffc9e42f39def29.png",
     "index.html": "/index.html",
-    "main.a8dcd880.css.map": "/static/css/main.a8dcd880.css.map",
-    "main.fde91894.js.map": "/static/js/main.fde91894.js.map"
+    "main.a785c872.css.map": "/static/css/main.a785c872.css.map",
+    "main.d7c459a9.js.map": "/static/js/main.d7c459a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8dcd880.css",
-    "static/js/main.fde91894.js"
+    "static/css/main.a785c872.css",
+    "static/js/main.d7c459a9.js"
   ]
 }
