@@ -1,0 +1,12 @@
+.tabs{
+    width:190px;
+    height:47px;
+    border-radius:5px 5px 0px 0px;
+    padding-top:10px;
+    margin-right: 4px;
+    background-color: rgba(255, 255, 255, 0.5)
+}
+.tabs:hover{
+    cursor: pointer;
+    color: #8133D0
+}

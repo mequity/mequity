@@ -1,0 +1,21 @@
+.sideBarComponent{
+    height:60px;
+    margin-bottom:30px;
+    color:white;
+    padding-top:16px;
+    font-family: Droid Sans;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 18px;
+    padding-left:40px
+}
+
+.recAction{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    width: 204px;
+    height: 75px;
+    margin-top:40px;
+}

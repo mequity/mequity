@@ -1,0 +1,13 @@
+.sideBar{
+    position: absolute;
+    width: 20%;
+    height: 100vh;
+    left: 0px;
+    top: 0px;
+    background-color: #8133D0;
+
+}
+
+Link{
+    text-decoration: none;
+}

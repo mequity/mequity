@@ -1,0 +1,17 @@
+.mainBody{
+    background-color: #EBEEF0;
+    width: 70%;
+    min-height: 700px;
+    margin: 40px auto;
+  }
+  .inputSection{
+    background: linear-gradient(180deg, rgba(196, 196, 196, 0.7) 0%, rgba(196, 196, 196, 0.2) 100%);
+    border: 1px solid rgba(196, 196, 196, 0.4);
+    backdrop-filter: blur(15px);
+    border-radius: 10px;
+    height: 44px;
+    color:white;
+  }
+  .inputSection::placeholder{
+      color: #FFFFFF66;
+  }
